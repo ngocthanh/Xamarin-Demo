@@ -1,0 +1,13 @@
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/Demo.Class.UI.MyPage.xaml
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/MyPage.xaml.g.cs
+/Users/lethanh/Projects/Demo/Demo/bin/Debug/Xamarin.Forms.Core.dll
+/Users/lethanh/Projects/Demo/Demo/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/Demo.Class.UI.HomePage.xaml
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/HomePage.xaml.g.cs
+/Users/lethanh/Projects/Demo/Demo/bin/Debug/Demo.dll.mdb
+/Users/lethanh/Projects/Demo/Demo/bin/Debug/Demo.dll
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/Demo.dll
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/Demo.dll.mdb
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/Demo.Class.UI.Login.xaml
+/Users/lethanh/Projects/Demo/Demo/obj/Debug/Login.xaml.g.cs
